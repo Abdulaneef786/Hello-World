@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 
 <h1>We are GOING TO BE SUCCEDED THIS YEAR </h1>
 <h1> Hello, Welcome Abdul Rahaman !!! </h1>
